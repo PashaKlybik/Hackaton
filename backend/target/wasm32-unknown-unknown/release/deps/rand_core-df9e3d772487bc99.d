@@ -1,0 +1,11 @@
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/rand_core-df9e3d772487bc99.rmeta: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/error.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/block.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/impls.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/le.rs
+
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/librand_core-df9e3d772487bc99.rlib: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/error.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/block.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/impls.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/le.rs
+
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/rand_core-df9e3d772487bc99.d: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/error.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/block.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/impls.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/le.rs
+
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/lib.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/error.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/block.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/impls.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.4.0/src/le.rs:

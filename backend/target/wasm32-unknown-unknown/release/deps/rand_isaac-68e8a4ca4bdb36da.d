@@ -1,0 +1,10 @@
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/rand_isaac-68e8a4ca4bdb36da.rmeta: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac64.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/librand_isaac-68e8a4ca4bdb36da.rlib: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac64.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/pavelklybik/Documents/hackaton/tutorials/dice-game/backend/target/wasm32-unknown-unknown/release/deps/rand_isaac-68e8a4ca4bdb36da.d: /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/lib.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac64.rs /Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/lib.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac64.rs:
+/Users/pavelklybik/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_isaac-0.1.1/src/isaac_array.rs:
